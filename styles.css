@@ -1,0 +1,10 @@
+table,th,td {
+    border: 1px solid black;
+}
+body {
+    background-image: url(https://www.sqna.com/wp-content/uploads/IMG_1051.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+table {background-color: rgb(247, 196, 130);}
